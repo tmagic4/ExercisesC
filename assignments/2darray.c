@@ -33,7 +33,7 @@ int main(void)
 		}
 	
 
-		if (row == 0) {
+		if (row == 1) {
 			switch(col) {
 				case 0:
 				array[3] = num;
@@ -54,7 +54,7 @@ int main(void)
 		}
 	
 
-		if (row == 0) {
+		if (row == 2) {
 			switch(col) {
 				case 0:
 				array[6] = num;
